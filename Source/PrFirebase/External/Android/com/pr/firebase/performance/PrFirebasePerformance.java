@@ -1,5 +1,5 @@
 // Copyright 2020-2021 Nikolay Prudnikov. All Rights Reserved.
-
+/*
 package com.pr.firebase.performance;
 
 import java.util.HashMap;
@@ -90,3 +90,4 @@ public class PrFirebasePerformance {
 		trace.removeAttribute(name);
 	}
 }
+*/
